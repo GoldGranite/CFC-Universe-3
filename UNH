@@ -1,0 +1,3020 @@
+{
+  "bowlGames": 
+  [
+    "Lilac Bowl",
+    "Apple Bowl",
+    "Salty Bowl",
+    "Salsa Bowl",
+    "Mango Bowl",
+    "Patriot Bowl",
+    "Salad Bowl",
+    "Frost Bowl",
+    "Tropical Bowl",
+    "Music Bowl",
+    "Lilac Bowl",
+    "Apple Bowl",
+    "Salty Bowl",
+    "Salsa Bowl",
+    "Mango Bowl",
+    "Patriot Bowl",
+    "Salad Bowl",
+    "Frost Bowl",
+    "Tropical Bowl",
+    "Music Bowl",
+    "Carnation Bowl",
+    "Mandarin Bowl",
+    "Honey Bowl",
+    "Party Bowl",
+    "Nectatrine Bowl",
+    "Polyester Bowl",
+    "Lemon-Lime Bowl",
+    "Crocodile Bowl",
+    "Desert Bowl",
+    "Fort Bowl",
+    "Vacation Bowl",
+    "Star Bowl",
+    "Bell Bowl",
+    "Freedom Bowl",
+    "Casino Bowl",
+    "American Bowl"
+  ],
+  "conferences": 
+  [    
+    {
+      "confName": "SOUTH",
+      "confFullName": "Southern",
+      "confPrestige": "90",
+      "confTeams": 
+      [        
+        {
+          "name": "Alabama",
+          "abbreviation": "ALA",
+          "prestige": "95",
+          "state": "Alabama",
+          "rival": "ATH",
+          "headCoach": 
+          {
+            "name": "Andrew Origer",
+            "age": "46",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "New Jersey",
+            "baselinePrestige": "95",
+            "cumulativePrestige": "0",
+            "ratOvr": "76",
+            "ratDef": "80",
+            "ratOff": "72",
+            "ratTalent": "75",
+            "ratDiscipline": "78",
+            "ratPot": "55"
+          }
+        },        
+        {
+          "name": "Athens",
+          "abbreviation": "ATH",
+          "prestige": "90",
+          "state": "Georgia",
+          "rival": "ALA",
+          "headCoach": 
+          {
+            "name": "James Perry",
+            "age": "43",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Alaska",
+            "baselinePrestige": "90",
+            "cumulativePrestige": "0",
+            "ratOvr": "70",
+            "ratDef": "74",
+            "ratOff": "78",
+            "ratTalent": "83",
+            "ratDiscipline": "46",
+            "ratPot": "52"
+          }
+        },        
+        {
+          "name": "Florida",
+          "abbreviation": "FLA",
+          "prestige": "85",
+          "state": "Florida",
+          "rival": "TEN",
+          "headCoach": 
+          {
+            "name": "Ed Rodeen",
+            "age": "52",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Arizona",
+            "baselinePrestige": "85",
+            "cumulativePrestige": "0",
+            "ratOvr": "57",
+            "ratDef": "70",
+            "ratOff": "60",
+            "ratTalent": "52",
+            "ratDiscipline": "47",
+            "ratPot": "82"
+          }
+        },        
+        {
+          "name": "Tennessee",
+          "abbreviation": "TEN",
+          "prestige": "80",
+          "state": "Tennessee",
+          "rival": "FLA",
+          "headCoach": 
+          {
+            "name": "Clay Olverson",
+            "age": "30",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Arkansas",
+            "baselinePrestige": "80",
+            "cumulativePrestige": "0",
+            "ratOvr": "67",
+            "ratDef": "63",
+            "ratOff": "67",
+            "ratTalent": "92",
+            "ratDiscipline": "47",
+            "ratPot": "92"
+          }
+        },        
+        {
+          "name": "Atlanta",
+          "abbreviation": "ATL",
+          "prestige": "75",
+          "state": "Georgia",
+          "rival": "KYW",
+          "headCoach": 
+          {
+            "name": "Travis Mcwalters",
+            "age": "54",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "West Virginia",
+            "baselinePrestige": "75",
+            "cumulativePrestige": "0",
+            "ratOvr": "71",
+            "ratDef": "72",
+            "ratOff": "59",
+            "ratTalent": "61",
+            "ratDiscipline": "92",
+            "ratPot": "72"
+          }
+        },        
+        {
+          "name": "New Orleans",
+          "abbreviation": "NOR",
+          "prestige": "75",
+          "state": "Louisiana",
+          "rival": "LOU",
+          "headCoach": 
+          {
+            "name": "Harrison Alby",
+            "age": "40",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "West Virginia",
+            "baselinePrestige": "75",
+            "cumulativePrestige": "0",
+            "ratOvr": "70",
+            "ratDef": "77",
+            "ratOff": "66",
+            "ratTalent": "50",
+            "ratDiscipline": "87",
+            "ratPot": "98"
+          }
+        },        
+        {
+          "name": "Arkansas",
+          "abbreviation": "ARK",
+          "prestige": "70",
+          "state": "Arkansas",
+          "rival": "KTY",
+          "headCoach": 
+          {
+            "name": "Orlando Tappeiner",
+            "age": "41",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "West Virginia",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "0",
+            "ratOvr": "66",
+            "ratDef": "66",
+            "ratOff": "64",
+            "ratTalent": "87",
+            "ratDiscipline": "49",
+            "ratPot": "96"
+          }
+        },        
+        {
+          "name": "Louisiana",
+          "abbreviation": "LOU",
+          "prestige": "65",
+          "state": "Louisiana",
+          "rival": "NOR",
+          "headCoach": 
+          {
+            "name": "Collin Haldi",
+            "age": "43",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Vermont",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "0",
+            "ratOvr": "61",
+            "ratDef": "75",
+            "ratOff": "65",
+            "ratTalent": "47",
+            "ratDiscipline": "58",
+            "ratPot": "60"
+          }
+        },        
+        {
+          "name": "Key West",
+          "abbreviation": "KYW",
+          "prestige": "65",
+          "state": "Florida",
+          "rival": "ATL",
+          "headCoach": 
+          {
+            "name": "Greg Moreno",
+            "age": "38",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "North Carolina",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "0",
+            "ratOvr": "64",
+            "ratDef": "75",
+            "ratOff": "78",
+            "ratTalent": "52",
+            "ratDiscipline": "51",
+            "ratPot": "62"
+          }
+        },        
+        {
+          "name": "Kentucky",
+          "abbreviation": "KTY",
+          "prestige": "50",
+          "state": "Kentucky",
+          "rival": "ARK",
+          "headCoach": 
+          {
+            "name": "Joe Testaverde",
+            "age": "32",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Pennsylvania",
+            "baselinePrestige": "50",
+            "cumulativePrestige": "0",
+            "ratOvr": "62",
+            "ratDef": "66",
+            "ratOff": "66",
+            "ratTalent": "68",
+            "ratDiscipline": "69",
+            "ratPot": "70"
+          }
+        }
+      ]
+    },    
+    {
+      "confName": "LAKES",
+      "confFullName": "Lakes",
+      "confPrestige": "90",
+      "confTeams": 
+      [        
+        {
+          "name": "Michigan",
+          "abbreviation": "MIC",
+          "prestige": "90",
+          "state": "Michigan",
+          "rival": "OHI",
+          "headCoach": 
+          {
+            "name": "Robbie Klimek",
+            "age": "42",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Maryland",
+            "baselinePrestige": "90",
+            "cumulativePrestige": "0",
+            "ratOvr": "70",
+            "ratDef": "69",
+            "ratOff": "74",
+            "ratTalent": "51",
+            "ratDiscipline": "86",
+            "ratPot": "85"
+          }
+        },        
+        {
+          "name": "Ohio State",
+          "abbreviation": "OHI",
+          "prestige": "90",
+          "state": "Ohio",
+          "rival": "MIC",
+          "headCoach": 
+          {
+            "name": "Marshall Gata",
+            "age": "48",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Nebraska",
+            "baselinePrestige": "90",
+            "cumulativePrestige": "0",
+            "ratOvr": "74",
+            "ratDef": "71",
+            "ratOff": "87",
+            "ratTalent": "50",
+            "ratDiscipline": "89",
+            "ratPot": "59"
+          }
+        },        
+        {
+          "name": "Michigan St",
+          "abbreviation": "MSU",
+          "prestige": "80",
+          "state": "Michigan",
+          "rival": "MIN",
+          "headCoach": 
+          {
+            "name": "Levi Hartmann",
+            "age": "43",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Maryland",
+            "baselinePrestige": "80",
+            "cumulativePrestige": "0",
+            "ratOvr": "70",
+            "ratDef": "74",
+            "ratOff": "75",
+            "ratTalent": "79",
+            "ratDiscipline": "55",
+            "ratPot": "79"
+          }
+        },        
+        {
+          "name": "Univ of Chicago",
+          "abbreviation": "CHI",
+          "prestige": "70",
+          "state": "Illinois",
+          "rival": "DET",
+          "headCoach": 
+          {
+            "name": "Billy Papps",
+            "age": "53",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Oregon",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "0",
+            "ratOvr": "65",
+            "ratDef": "59",
+            "ratOff": "64",
+            "ratTalent": "84",
+            "ratDiscipline": "56",
+            "ratPot": "79"
+          }
+        },        
+        {
+          "name": "Wisconsin",
+          "abbreviation": "WIS",
+          "prestige": "70",
+          "state": "Wisconsin",
+          "rival": "IND",
+          "headCoach": 
+          {
+            "name": "Dwayne Senko",
+            "age": "33",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Oregon",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "0",
+            "ratOvr": "70",
+            "ratDef": "62",
+            "ratOff": "69",
+            "ratTalent": "85",
+            "ratDiscipline": "67",
+            "ratPot": "99"
+          }
+        },        
+        {
+          "name": "Minnesota",
+          "abbreviation": "MIN",
+          "prestige": "70",
+          "state": "Minnesota",
+          "rival": "MSU",
+          "headCoach": 
+          {
+            "name": "Damian Lobur",
+            "age": "49",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Virginia",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "0",
+            "ratOvr": "72",
+            "ratDef": "71",
+            "ratOff": "64",
+            "ratTalent": "80",
+            "ratDiscipline": "76",
+            "ratPot": "51"
+          }
+        },        
+        {
+          "name": "Detroit St",
+          "abbreviation": "DET",
+          "prestige": "65",
+          "state": "Michigan",
+          "rival": "CHI",
+          "headCoach": 
+          {
+            "name": "Santi Bellefeuille",
+            "age": "37",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Maine",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "0",
+            "ratOvr": "73",
+            "ratDef": "63",
+            "ratOff": "73",
+            "ratTalent": "72",
+            "ratDiscipline": "86",
+            "ratPot": "56"
+          }
+        },        
+        {
+          "name": "Indiana",
+          "abbreviation": "IND",
+          "prestige": "65",
+          "state": "Indiana",
+          "rival": "WIS",
+          "headCoach": 
+          {
+            "name": "Rex Palczynski",
+            "age": "34",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Rhode Island",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "0",
+            "ratOvr": "60",
+            "ratDef": "64",
+            "ratOff": "63",
+            "ratTalent": "67",
+            "ratDiscipline": "48",
+            "ratPot": "74"
+          }
+        },        
+        {
+          "name": "Cleveland State",
+          "abbreviation": "CLE",
+          "prestige": "55",
+          "state": "Ohio",
+          "rival": "MIL",
+          "headCoach": 
+          {
+            "name": "Devon Leadley",
+            "age": "40",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "New Hampshire",
+            "baselinePrestige": "55",
+            "cumulativePrestige": "0",
+            "ratOvr": "59",
+            "ratDef": "60",
+            "ratOff": "61",
+            "ratTalent": "58",
+            "ratDiscipline": "60",
+            "ratPot": "78"
+          }
+        },        
+        {
+          "name": "Milwaukee",
+          "abbreviation": "MIL",
+          "prestige": "45",
+          "state": "Wisconsin",
+          "rival": "CLE",
+          "headCoach": 
+          {
+            "name": "Derrick Fishback",
+            "age": "38",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Tennessee",
+            "baselinePrestige": "45",
+            "cumulativePrestige": "0",
+            "ratOvr": "61",
+            "ratDef": "63",
+            "ratOff": "51",
+            "ratTalent": "65",
+            "ratDiscipline": "67",
+            "ratPot": "91"
+          }
+        }
+      ]
+    },    
+    {
+      "confName": "NORTH",
+      "confFullName": "North",
+      "confPrestige": "80",
+      "confTeams": 
+      [        
+        {
+          "name": "New York St",
+          "abbreviation": "NYS",
+          "prestige": "90",
+          "state": "New York",
+          "rival": "NYC",
+          "headCoach": 
+          {
+            "name": "Gary Masini",
+            "age": "52",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Arizona",
+            "baselinePrestige": "90",
+            "cumulativePrestige": "0",
+            "ratOvr": "63",
+            "ratDef": "78",
+            "ratOff": "62",
+            "ratTalent": "61",
+            "ratDiscipline": "53",
+            "ratPot": "51"
+          }
+        },        
+        {
+          "name": "New Jersey",
+          "abbreviation": "NWJ",
+          "prestige": "85",
+          "state": "New Jersey",
+          "rival": "PEN",
+          "headCoach": 
+          {
+            "name": "Dominic Lozoya",
+            "age": "46",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Oregon",
+            "baselinePrestige": "85",
+            "cumulativePrestige": "0",
+            "ratOvr": "72",
+            "ratDef": "80",
+            "ratOff": "77",
+            "ratTalent": "75",
+            "ratDiscipline": "58",
+            "ratPot": "80"
+          }
+        },        
+        {
+          "name": "New York City",
+          "abbreviation": "NYC",
+          "prestige": "75",
+          "state": "New York",
+          "rival": "NYS",
+          "headCoach": 
+          {
+            "name": "Cameron Karimi",
+            "age": "38",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Arizona",
+            "baselinePrestige": "75",
+            "cumulativePrestige": "0",
+            "ratOvr": "70",
+            "ratDef": "72",
+            "ratOff": "67",
+            "ratTalent": "65",
+            "ratDiscipline": "78",
+            "ratPot": "91"
+          }
+        },        
+        {
+          "name": "Pennsylvania",
+          "abbreviation": "PEN",
+          "prestige": "75",
+          "state": "Pennsylvania",
+          "rival": "NWJ",
+          "headCoach": 
+          {
+            "name": "Bryce Steady",
+            "age": "36",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Ohio",
+            "baselinePrestige": "75",
+            "cumulativePrestige": "0",
+            "ratOvr": "70",
+            "ratDef": "67",
+            "ratOff": "69",
+            "ratTalent": "52",
+            "ratDiscipline": "92",
+            "ratPot": "70"
+          }
+        },        
+        {
+          "name": "Washington DC",
+          "abbreviation": "WDC",
+          "prestige": "70",
+          "state": "District of Columbia",
+          "rival": "MAR",
+          "headCoach": 
+          {
+            "name": "Myron Ardaly",
+            "age": "51",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Oklahoma",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "0",
+            "ratOvr": "63",
+            "ratDef": "64",
+            "ratOff": "74",
+            "ratTalent": "46",
+            "ratDiscipline": "71",
+            "ratPot": "75"
+          }
+        },        
+        {
+          "name": "Maryland",
+          "abbreviation": "MAR",
+          "prestige": "70",
+          "state": "Maryland",
+          "rival": "WDC",
+          "headCoach": 
+          {
+            "name": "Gus Ellerbe",
+            "age": "43",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Maine",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "0",
+            "ratOvr": "55",
+            "ratDef": "61",
+            "ratOff": "59",
+            "ratTalent": "49",
+            "ratDiscipline": "51",
+            "ratPot": "66"
+          }
+        },        
+        {
+          "name": "Boston St",
+          "abbreviation": "BOS",
+          "prestige": "65",
+          "state": "Massachusetts",
+          "rival": "PIT",
+          "headCoach": 
+          {
+            "name": "Desmon Trenholm",
+            "age": "54",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Utah",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "0",
+            "ratOvr": "56",
+            "ratDef": "56",
+            "ratOff": "65",
+            "ratTalent": "56",
+            "ratDiscipline": "47",
+            "ratPot": "84"
+          }
+        },        
+        {
+          "name": "Pittsburgh",
+          "abbreviation": "PIT",
+          "prestige": "60",
+          "state": "Pennsylvania",
+          "rival": "BOS",
+          "headCoach": 
+          {
+            "name": "Howard Easterly",
+            "age": "40",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Pennsylvania",
+            "baselinePrestige": "60",
+            "cumulativePrestige": "0",
+            "ratOvr": "62",
+            "ratDef": "61",
+            "ratOff": "69",
+            "ratTalent": "69",
+            "ratDiscipline": "51",
+            "ratPot": "67"
+          }
+        },        
+        {
+          "name": "Maine",
+          "abbreviation": "MAI",
+          "prestige": "50",
+          "state": "Maine",
+          "rival": "NH",
+          "headCoach": 
+          {
+            "name": "Cruz Dume",
+            "age": "40",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Ohio",
+            "baselinePrestige": "50",
+            "cumulativePrestige": "0",
+            "ratOvr": "61",
+            "ratDef": "58",
+            "ratOff": "59",
+            "ratTalent": "49",
+            "ratDiscipline": "79",
+            "ratPot": "88"
+          }
+        },        
+        {
+          "name": "New Hampshire",
+          "abbreviation": "NH",
+          "prestige": "45",
+          "state": "New Hampshire",
+          "rival": "MAI",
+          "headCoach": 
+          {
+            "name": "Doug Macmanus",
+            "age": "55",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Montana",
+            "baselinePrestige": "45",
+            "cumulativePrestige": "0",
+            "ratOvr": "66",
+            "ratDef": "62",
+            "ratOff": "56",
+            "ratTalent": "82",
+            "ratDiscipline": "66",
+            "ratPot": "78"
+          }
+        }
+      ]
+    },    
+    {
+      "confName": "COWBY",
+      "confFullName": "Cowboy",
+      "confPrestige": "85",
+      "confTeams": 
+      [        
+        {
+          "name": "Texas",
+          "abbreviation": "TEX",
+          "prestige": "90",
+          "state": "Texas",
+          "rival": "OKL",
+          "headCoach": 
+          {
+            "name": "Alan Tarter",
+            "age": "50",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "North Dakota",
+            "baselinePrestige": "90",
+            "cumulativePrestige": "0",
+            "ratOvr": "63",
+            "ratDef": "67",
+            "ratOff": "84",
+            "ratTalent": "57",
+            "ratDiscipline": "46",
+            "ratPot": "80"
+          }
+        },        
+        {
+          "name": "Oklahoma",
+          "abbreviation": "OKL",
+          "prestige": "90",
+          "state": "Oklahoma",
+          "rival": "TEX",
+          "headCoach": 
+          {
+            "name": "Terence Martiez",
+            "age": "37",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Mississippi",
+            "baselinePrestige": "90",
+            "cumulativePrestige": "0",
+            "ratOvr": "74",
+            "ratDef": "80",
+            "ratOff": "61",
+            "ratTalent": "76",
+            "ratDiscipline": "79",
+            "ratPot": "87"
+          }
+        },        
+        {
+          "name": "Dallas",
+          "abbreviation": "DAL",
+          "prestige": "80",
+          "state": "Texas",
+          "rival": "HOU",
+          "headCoach": 
+          {
+            "name": "Greg Anglen",
+            "age": "51",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Tennessee",
+            "baselinePrestige": "80",
+            "cumulativePrestige": "0",
+            "ratOvr": "71",
+            "ratDef": "67",
+            "ratOff": "71",
+            "ratTalent": "67",
+            "ratDiscipline": "79",
+            "ratPot": "98"
+          }
+        },        
+        {
+          "name": "Houston",
+          "abbreviation": "HOU",
+          "prestige": "80",
+          "state": "Texas",
+          "rival": "DAL",
+          "headCoach": 
+          {
+            "name": "Tom Cragar",
+            "age": "49",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Arizona",
+            "baselinePrestige": "80",
+            "cumulativePrestige": "0",
+            "ratOvr": "56",
+            "ratDef": "64",
+            "ratOff": "67",
+            "ratTalent": "50",
+            "ratDiscipline": "45",
+            "ratPot": "91"
+          }
+        },        
+        {
+          "name": "Oklahoma St",
+          "abbreviation": "OKS",
+          "prestige": "70",
+          "state": "Oklahoma",
+          "rival": "TUL",
+          "headCoach": 
+          {
+            "name": "Cody Badilla",
+            "age": "38",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Tennessee",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "0",
+            "ratOvr": "64",
+            "ratDef": "65",
+            "ratOff": "66",
+            "ratTalent": "75",
+            "ratDiscipline": "52",
+            "ratPot": "65"
+          }
+        },        
+        {
+          "name": "Alamo St",
+          "abbreviation": "AMO",
+          "prestige": "70",
+          "state": "Texas",
+          "rival": "PAS",
+          "headCoach": 
+          {
+            "name": "Vance Beaubien",
+            "age": "31",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Connecticut",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "0",
+            "ratOvr": "75",
+            "ratDef": "69",
+            "ratOff": "72",
+            "ratTalent": "82",
+            "ratDiscipline": "77",
+            "ratPot": "88"
+          }
+        },        
+        {
+          "name": "Texas St",
+          "abbreviation": "TXS",
+          "prestige": "60",
+          "state": "Texas",
+          "rival": "AUS",
+          "headCoach": 
+          {
+            "name": "Avery Bovian",
+            "age": "47",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Georgia",
+            "baselinePrestige": "60",
+            "cumulativePrestige": "0",
+            "ratOvr": "70",
+            "ratDef": "67",
+            "ratOff": "57",
+            "ratTalent": "66",
+            "ratDiscipline": "90",
+            "ratPot": "67"
+          }
+        },        
+        {
+          "name": "El Paso St",
+          "abbreviation": "PAS",
+          "prestige": "60",
+          "state": "Texas",
+          "rival": "AMO",
+          "headCoach": 
+          {
+            "name": "Charles Neria",
+            "age": "57",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Vermont",
+            "baselinePrestige": "60",
+            "cumulativePrestige": "0",
+            "ratOvr": "64",
+            "ratDef": "65",
+            "ratOff": "72",
+            "ratTalent": "71",
+            "ratDiscipline": "51",
+            "ratPot": "66"
+          }
+        },        
+        {
+          "name": "Tulsa",
+          "abbreviation": "TUL",
+          "prestige": "55",
+          "state": "Oklahoma",
+          "rival": "OKS",
+          "headCoach": 
+          {
+            "name": "Jojo Caufield",
+            "age": "37",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Louisiana",
+            "baselinePrestige": "55",
+            "cumulativePrestige": "0",
+            "ratOvr": "67",
+            "ratDef": "62",
+            "ratOff": "74",
+            "ratTalent": "65",
+            "ratDiscipline": "70",
+            "ratPot": "92"
+          }
+        },        
+        {
+          "name": "Univ of Austin",
+          "abbreviation": "AUS",
+          "prestige": "50",
+          "state": "Texas",
+          "rival": "TXS",
+          "headCoach": 
+          {
+            "name": "Brayden Borkoski",
+            "age": "47",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Nevada",
+            "baselinePrestige": "50",
+            "cumulativePrestige": "0",
+            "ratOvr": "65",
+            "ratDef": "66",
+            "ratOff": "53",
+            "ratTalent": "80",
+            "ratDiscipline": "63",
+            "ratPot": "62"
+          }
+        }
+      ]
+    },    
+    {
+      "confName": "PACIF",
+      "confFullName": "Pacific",
+      "confPrestige": "80",
+      "confTeams": 
+      [        
+        {
+          "name": "California",
+          "abbreviation": "CAL",
+          "prestige": "90",
+          "state": "California",
+          "rival": "ULA",
+          "headCoach": 
+          {
+            "name": "Tucker Naron",
+            "age": "36",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "North Carolina",
+            "baselinePrestige": "90",
+            "cumulativePrestige": "0",
+            "ratOvr": "75",
+            "ratDef": "81",
+            "ratOff": "83",
+            "ratTalent": "85",
+            "ratDiscipline": "52",
+            "ratPot": "69"
+          }
+        },        
+        {
+          "name": "Oregon",
+          "abbreviation": "ORE",
+          "prestige": "85",
+          "state": "Oregon",
+          "rival": "WAS",
+          "headCoach": 
+          {
+            "name": "Donald Levra",
+            "age": "40",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Montana",
+            "baselinePrestige": "85",
+            "cumulativePrestige": "0",
+            "ratOvr": "80",
+            "ratDef": "81",
+            "ratOff": "65",
+            "ratTalent": "92",
+            "ratDiscipline": "82",
+            "ratPot": "87"
+          }
+        },        
+        {
+          "name": "Los Angeles",
+          "abbreviation": "ULA",
+          "prestige": "80",
+          "state": "California",
+          "rival": "CAL",
+          "headCoach": 
+          {
+            "name": "Tom Wischmeier",
+            "age": "54",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Texas",
+            "baselinePrestige": "80",
+            "cumulativePrestige": "0",
+            "ratOvr": "69",
+            "ratDef": "70",
+            "ratOff": "60",
+            "ratTalent": "64",
+            "ratDiscipline": "82",
+            "ratPot": "68"
+          }
+        },        
+        {
+          "name": "Washington",
+          "abbreviation": "WAS",
+          "prestige": "75",
+          "state": "Washington",
+          "rival": "ORE",
+          "headCoach": 
+          {
+            "name": "Trey Cragun",
+            "age": "48",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "North Carolina",
+            "baselinePrestige": "75",
+            "cumulativePrestige": "0",
+            "ratOvr": "75",
+            "ratDef": "66",
+            "ratOff": "63",
+            "ratTalent": "90",
+            "ratDiscipline": "81",
+            "ratPot": "80"
+          }
+        },        
+        {
+          "name": "Oakland St",
+          "abbreviation": "OAK",
+          "prestige": "75",
+          "state": "California",
+          "rival": "HOL",
+          "headCoach": 
+          {
+            "name": "Marquez Morenz",
+            "age": "43",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Missouri",
+            "baselinePrestige": "75",
+            "cumulativePrestige": "0",
+            "ratOvr": "64",
+            "ratDef": "65",
+            "ratOff": "70",
+            "ratTalent": "52",
+            "ratDiscipline": "71",
+            "ratPot": "63"
+          }
+        },        
+        {
+          "name": "Hollywood St",
+          "abbreviation": "HOL",
+          "prestige": "70",
+          "state": "California",
+          "rival": "OAK",
+          "headCoach": 
+          {
+            "name": "Marco Schibi",
+            "age": "47",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Montana",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "0",
+            "ratOvr": "71",
+            "ratDef": "59",
+            "ratOff": "56",
+            "ratTalent": "78",
+            "ratDiscipline": "92",
+            "ratPot": "56"
+          }
+        },        
+        {
+          "name": "Hawaii",
+          "abbreviation": "HAW",
+          "prestige": "70",
+          "state": "Hawaii",
+          "rival": "SAM",
+          "headCoach": 
+          {
+            "name": "Allen Boniol",
+            "age": "51",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "New Hampshire",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "0",
+            "ratOvr": "66",
+            "ratDef": "57",
+            "ratOff": "67",
+            "ratTalent": "48",
+            "ratDiscipline": "93",
+            "ratPot": "93"
+          }
+        },        
+        {
+          "name": "Pullman",
+          "abbreviation": "PUL",
+          "prestige": "70",
+          "state": "Washington",
+          "rival": "SAN",
+          "headCoach": 
+          {
+            "name": "Damien Fisser",
+            "age": "39",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Utah",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "0",
+            "ratOvr": "64",
+            "ratDef": "65",
+            "ratOff": "63",
+            "ratTalent": "45",
+            "ratDiscipline": "86",
+            "ratPot": "51"
+          }
+        },        
+        {
+          "name": "San Diego St",
+          "abbreviation": "SAN",
+          "prestige": "60",
+          "state": "California",
+          "rival": "SEA",
+          "headCoach": 
+          {
+            "name": "David Cuffee",
+            "age": "49",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "New Jersey",
+            "baselinePrestige": "60",
+            "cumulativePrestige": "0",
+            "ratOvr": "66",
+            "ratDef": "68",
+            "ratOff": "75",
+            "ratTalent": "55",
+            "ratDiscipline": "69",
+            "ratPot": "58"
+          }
+        },        
+        {
+          "name": "American Samoa",
+          "abbreviation": "SAM",
+          "prestige": "25",
+          "state": "American Samoa",
+          "rival": "HAW",
+          "headCoach": 
+          {
+            "name": "Harry Reigh",
+            "age": "57",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Louisiana",
+            "baselinePrestige": "25",
+            "cumulativePrestige": "0",
+            "ratOvr": "68",
+            "ratDef": "56",
+            "ratOff": "51",
+            "ratTalent": "89",
+            "ratDiscipline": "77",
+            "ratPot": "62"
+          }
+        }
+      ]
+    },    
+    {
+      "confName": "MOUNT",
+      "confFullName": "Mountain",
+      "confPrestige": "75",
+      "confTeams": 
+      [        
+        {
+          "name": "Colorado",
+          "abbreviation": "COL",
+          "prestige": "80",
+          "state": "Colorado",
+          "rival": "DEN",
+          "headCoach": 
+          {
+            "name": "Max Brocklehurst",
+            "age": "50",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "New York",
+            "baselinePrestige": "80",
+            "cumulativePrestige": "0",
+            "ratOvr": "69",
+            "ratDef": "70",
+            "ratOff": "65",
+            "ratTalent": "61",
+            "ratDiscipline": "83",
+            "ratPot": "53"
+          }
+        },        
+        {
+          "name": "Univ of Denver",
+          "abbreviation": "DEN",
+          "prestige": "75",
+          "state": "Colorado",
+          "rival": "COL",
+          "headCoach": 
+          {
+            "name": "Toby Cimini",
+            "age": "42",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "New York",
+            "baselinePrestige": "75",
+            "cumulativePrestige": "0",
+            "ratOvr": "68",
+            "ratDef": "74",
+            "ratOff": "62",
+            "ratTalent": "93",
+            "ratDiscipline": "46",
+            "ratPot": "53"
+          }
+        },        
+        {
+          "name": "Utah",
+          "abbreviation": "UTA",
+          "prestige": "75",
+          "state": "Utah",
+          "rival": "SAL",
+          "headCoach": 
+          {
+            "name": "Russell Hesch",
+            "age": "33",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Louisiana",
+            "baselinePrestige": "75",
+            "cumulativePrestige": "0",
+            "ratOvr": "64",
+            "ratDef": "56",
+            "ratOff": "62",
+            "ratTalent": "65",
+            "ratDiscipline": "75",
+            "ratPot": "94"
+          }
+        },        
+        {
+          "name": "Yellowstone St",
+          "abbreviation": "YEL",
+          "prestige": "75",
+          "state": "Wyoming",
+          "rival": "ALB",
+          "headCoach": 
+          {
+            "name": "Richard Miller",
+            "age": "39",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Nevada",
+            "baselinePrestige": "75",
+            "cumulativePrestige": "0",
+            "ratOvr": "74",
+            "ratDef": "67",
+            "ratOff": "67",
+            "ratTalent": "93",
+            "ratDiscipline": "70",
+            "ratPot": "96"
+          }
+        },        
+        {
+          "name": "Albuquerque",
+          "abbreviation": "ALB",
+          "prestige": "70",
+          "state": "New Mexico",
+          "rival": "YEL",
+          "headCoach": 
+          {
+            "name": "Glen Klemens",
+            "age": "34",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "New York",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "0",
+            "ratOvr": "64",
+            "ratDef": "73",
+            "ratOff": "63",
+            "ratTalent": "47",
+            "ratDiscipline": "75",
+            "ratPot": "98"
+          }
+        },        
+        {
+          "name": "Salt Lake St",
+          "abbreviation": "SAL",
+          "prestige": "65",
+          "state": "Utah",
+          "rival": "UTA",
+          "headCoach": 
+          {
+            "name": "Brian Baston",
+            "age": "37",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Michigan",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "0",
+            "ratOvr": "73",
+            "ratDef": "63",
+            "ratOff": "64",
+            "ratTalent": "84",
+            "ratDiscipline": "81",
+            "ratPot": "91"
+          }
+        },        
+        {
+          "name": "Wyoming",
+          "abbreviation": "WYO",
+          "prestige": "60",
+          "state": "Wyoming",
+          "rival": "MON",
+          "headCoach": 
+          {
+            "name": "Nic Buggs",
+            "age": "50",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Nevada",
+            "baselinePrestige": "60",
+            "cumulativePrestige": "0",
+            "ratOvr": "73",
+            "ratDef": "67",
+            "ratOff": "64",
+            "ratTalent": "91",
+            "ratDiscipline": "70",
+            "ratPot": "91"
+          }
+        },        
+        {
+          "name": "Montana",
+          "abbreviation": "MON",
+          "prestige": "55",
+          "state": "Montana",
+          "rival": "WYO",
+          "headCoach": 
+          {
+            "name": "Curtis Herimann",
+            "age": "35",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Pennsylvania",
+            "baselinePrestige": "55",
+            "cumulativePrestige": "0",
+            "ratOvr": "62",
+            "ratDef": "59",
+            "ratOff": "62",
+            "ratTalent": "69",
+            "ratDiscipline": "59",
+            "ratPot": "91"
+          }
+        },        
+        {
+          "name": "Las Vegas",
+          "abbreviation": "LSV",
+          "prestige": "50",
+          "state": "Nevada",
+          "rival": "PHO",
+          "headCoach": 
+          {
+            "name": "Thomas Mensi",
+            "age": "42",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "South Dakota",
+            "baselinePrestige": "50",
+            "cumulativePrestige": "0",
+            "ratOvr": "67",
+            "ratDef": "58",
+            "ratOff": "70",
+            "ratTalent": "73",
+            "ratDiscipline": "68",
+            "ratPot": "70"
+          }
+        },        
+        {
+          "name": "Phoenix",
+          "abbreviation": "PHO",
+          "prestige": "45",
+          "state": "Arizona",
+          "rival": "LSV",
+          "headCoach": 
+          {
+            "name": "Emmanuel Riegel",
+            "age": "41",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Virginia",
+            "baselinePrestige": "45",
+            "cumulativePrestige": "0",
+            "ratOvr": "60",
+            "ratDef": "62",
+            "ratOff": "54",
+            "ratTalent": "60",
+            "ratDiscipline": "65",
+            "ratPot": "88"
+          }
+        }
+      ]
+    },    
+    {
+      "confName": "GULF",
+      "confFullName": "Gulf Coast",
+      "confPrestige": "75",
+      "confTeams": 
+      [        
+        {
+          "name": "Boca Raton",
+          "abbreviation": "BOC",
+          "prestige": "75",
+          "state": "Florida",
+          "rival": "CAR",
+          "headCoach": 
+          {
+            "name": "Kenyon Chavera",
+            "age": "42",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Indiana",
+            "baselinePrestige": "75",
+            "cumulativePrestige": "0",
+            "ratOvr": "72",
+            "ratDef": "68",
+            "ratOff": "72",
+            "ratTalent": "58",
+            "ratDiscipline": "91",
+            "ratPot": "73"
+          }
+        },        
+        {
+          "name": "Arlington",
+          "abbreviation": "ARL",
+          "prestige": "75",
+          "state": "Texas",
+          "rival": "LTR",
+          "headCoach": 
+          {
+            "name": "JC Limardi",
+            "age": "41",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "New Jersey",
+            "baselinePrestige": "75",
+            "cumulativePrestige": "0",
+            "ratOvr": "67",
+            "ratDef": "64",
+            "ratOff": "74",
+            "ratTalent": "76",
+            "ratDiscipline": "57",
+            "ratPot": "63"
+          }
+        },        
+        {
+          "name": "Carolina",
+          "abbreviation": "CAR",
+          "prestige": "70",
+          "state": "South Carolina",
+          "rival": "BOC",
+          "headCoach": 
+          {
+            "name": "Roman Rhodes",
+            "age": "36",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Texas",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "0",
+            "ratOvr": "57",
+            "ratDef": "62",
+            "ratOff": "63",
+            "ratTalent": "47",
+            "ratDiscipline": "59",
+            "ratPot": "61"
+          }
+        },        
+        {
+          "name": "Boone St",
+          "abbreviation": "BST",
+          "prestige": "70",
+          "state": "North Carolina",
+          "rival": "VAL",
+          "headCoach": 
+          {
+            "name": "Lloyd Clarke",
+            "age": "46",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Vermont",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "0",
+            "ratOvr": "68",
+            "ratDef": "67",
+            "ratOff": "70",
+            "ratTalent": "87",
+            "ratDiscipline": "51",
+            "ratPot": "85"
+          }
+        },        
+        {
+          "name": "Lafayette",
+          "abbreviation": "LAF",
+          "prestige": "70",
+          "state": "Louisiana",
+          "rival": "MRE",
+          "headCoach": 
+          {
+            "name": "Cameron Raatz",
+            "age": "49",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Alaska",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "0",
+            "ratOvr": "59",
+            "ratDef": "69",
+            "ratOff": "72",
+            "ratTalent": "52",
+            "ratDiscipline": "46",
+            "ratPot": "61"
+          }
+        },        
+        {
+          "name": "Monroe",
+          "abbreviation": "MRE",
+          "prestige": "65",
+          "state": "Louisiana",
+          "rival": "LAF",
+          "headCoach": 
+          {
+            "name": "Alan Skalka",
+            "age": "41",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Wyoming",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "0",
+            "ratOvr": "61",
+            "ratDef": "69",
+            "ratOff": "58",
+            "ratTalent": "66",
+            "ratDiscipline": "51",
+            "ratPot": "77"
+          }
+        },        
+        {
+          "name": "Little Rock",
+          "abbreviation": "LTR",
+          "prestige": "60",
+          "state": "Arkansas",
+          "rival": "ARL",
+          "headCoach": 
+          {
+            "name": "Kendrick Courson",
+            "age": "39",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Tennessee",
+            "baselinePrestige": "60",
+            "cumulativePrestige": "0",
+            "ratOvr": "62",
+            "ratDef": "68",
+            "ratOff": "70",
+            "ratTalent": "64",
+            "ratDiscipline": "47",
+            "ratPot": "96"
+          }
+        },        
+        {
+          "name": "South Mobile",
+          "abbreviation": "MOB",
+          "prestige": "55",
+          "state": "Alabama",
+          "rival": "SMA",
+          "headCoach": 
+          {
+            "name": "Alan Eric",
+            "age": "51",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Wisconsin",
+            "baselinePrestige": "55",
+            "cumulativePrestige": "0",
+            "ratOvr": "58",
+            "ratDef": "58",
+            "ratOff": "68",
+            "ratTalent": "48",
+            "ratDiscipline": "58",
+            "ratPot": "86"
+          }
+        },        
+        {
+          "name": "Valdosta",
+          "abbreviation": "VAL",
+          "prestige": "50",
+          "state": "Georgia",
+          "rival": "BST",
+          "headCoach": 
+          {
+            "name": "Guy Bakker",
+            "age": "53",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Minnesota",
+            "baselinePrestige": "50",
+            "cumulativePrestige": "0",
+            "ratOvr": "68",
+            "ratDef": "67",
+            "ratOff": "62",
+            "ratTalent": "81",
+            "ratDiscipline": "65",
+            "ratPot": "66"
+          }
+        },        
+        {
+          "name": "San Marcos",
+          "abbreviation": "SMA",
+          "prestige": "45",
+          "state": "Texas",
+          "rival": "MOB",
+          "headCoach": 
+          {
+            "name": "Marshall Hodgin",
+            "age": "54",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Pennsylvania",
+            "baselinePrestige": "45",
+            "cumulativePrestige": "0",
+            "ratOvr": "60",
+            "ratDef": "64",
+            "ratOff": "67",
+            "ratTalent": "56",
+            "ratDiscipline": "56",
+            "ratPot": "98"
+          }
+        }
+      ]
+    },    
+    {
+      "confName": "NWST",
+      "confFullName": "Northwest",
+      "confPrestige": "70",
+      "confTeams": 
+      [        
+        {
+          "name": "Boise",
+          "abbreviation": "BOI",
+          "prestige": "80",
+          "state": "Idaho",
+          "rival": "FRE",
+          "headCoach": 
+          {
+            "name": "Alec Condo",
+            "age": "33",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "North Dakota",
+            "baselinePrestige": "80",
+            "cumulativePrestige": "0",
+            "ratOvr": "63",
+            "ratDef": "64",
+            "ratOff": "62",
+            "ratTalent": "80",
+            "ratDiscipline": "49",
+            "ratPot": "75"
+          }
+        },        
+        {
+          "name": "Fresno",
+          "abbreviation": "FRE",
+          "prestige": "75",
+          "state": "California",
+          "rival": "BOI",
+          "headCoach": 
+          {
+            "name": "Bennett Notestine",
+            "age": "46",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Texas",
+            "baselinePrestige": "75",
+            "cumulativePrestige": "0",
+            "ratOvr": "66",
+            "ratDef": "67",
+            "ratOff": "76",
+            "ratTalent": "47",
+            "ratDiscipline": "76",
+            "ratPot": "52"
+          }
+        },        
+        {
+          "name": "Fort Collins",
+          "abbreviation": "FCA",
+          "prestige": "70",
+          "state": "Colorado",
+          "rival": "CLS",
+          "headCoach": 
+          {
+            "name": "Jordan Siemek",
+            "age": "42",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "North Carolina",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "0",
+            "ratOvr": "80",
+            "ratDef": "62",
+            "ratOff": "72",
+            "ratTalent": "94",
+            "ratDiscipline": "93",
+            "ratPot": "58"
+          }
+        },        
+        {
+          "name": "North Dakota",
+          "abbreviation": "UND",
+          "prestige": "70",
+          "state": "North Dakota",
+          "rival": "RVR",
+          "headCoach": 
+          {
+            "name": "Justin Brancheau",
+            "age": "53",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "South Carolina",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "0",
+            "ratOvr": "62",
+            "ratDef": "57",
+            "ratOff": "73",
+            "ratTalent": "62",
+            "ratDiscipline": "59",
+            "ratPot": "74"
+          }
+        },        
+        {
+          "name": "Provo",
+          "abbreviation": "PRO",
+          "prestige": "65",
+          "state": "Utah",
+          "rival": "RNO",
+          "headCoach": 
+          {
+            "name": "Denzel Sandigo",
+            "age": "54",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Maine",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "0",
+            "ratOvr": "67",
+            "ratDef": "70",
+            "ratOff": "67",
+            "ratTalent": "57",
+            "ratDiscipline": "75",
+            "ratPot": "68"
+          }
+        },        
+        {
+          "name": "Reno",
+          "abbreviation": "RNO",
+          "prestige": "65",
+          "state": "Nevada",
+          "rival": "PRO",
+          "headCoach": 
+          {
+            "name": "Ernie Biesecker",
+            "age": "54",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "North Carolina",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "0",
+            "ratOvr": "69",
+            "ratDef": "66",
+            "ratOff": "58",
+            "ratTalent": "89",
+            "ratDiscipline": "65",
+            "ratPot": "81"
+          }
+        },        
+        {
+          "name": "Colorado Springs",
+          "abbreviation": "CLS",
+          "prestige": "65",
+          "state": "Colorado",
+          "rival": "FCA",
+          "headCoach": 
+          {
+            "name": "Clinton Yuenger",
+            "age": "55",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Indiana",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "0",
+            "ratOvr": "71",
+            "ratDef": "59",
+            "ratOff": "53",
+            "ratTalent": "91",
+            "ratDiscipline": "82",
+            "ratPot": "78"
+          }
+        },        
+        {
+          "name": "Riverside",
+          "abbreviation": "RVR",
+          "prestige": "55",
+          "state": "California",
+          "rival": "UND",
+          "headCoach": 
+          {
+            "name": "Malik James",
+            "age": "44",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Alaska",
+            "baselinePrestige": "55",
+            "cumulativePrestige": "0",
+            "ratOvr": "73",
+            "ratDef": "73",
+            "ratOff": "55",
+            "ratTalent": "90",
+            "ratDiscipline": "77",
+            "ratPot": "79"
+          }
+        },        
+        {
+          "name": "San Jose",
+          "abbreviation": "SJC",
+          "prestige": "55",
+          "state": "California",
+          "rival": "SAC",
+          "headCoach": 
+          {
+            "name": "Darryl Jordan",
+            "age": "32",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Alabama",
+            "baselinePrestige": "55",
+            "cumulativePrestige": "0",
+            "ratOvr": "71",
+            "ratDef": "63",
+            "ratOff": "68",
+            "ratTalent": "76",
+            "ratDiscipline": "78",
+            "ratPot": "92"
+          }
+        },        
+        {
+          "name": "Sacramento",
+          "abbreviation": "SAC",
+          "prestige": "50",
+          "state": "California",
+          "rival": "SJC",
+          "headCoach": 
+          {
+            "name": "Manuel Feddersen",
+            "age": "42",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "South Carolina",
+            "baselinePrestige": "50",
+            "cumulativePrestige": "0",
+            "ratOvr": "64",
+            "ratDef": "70",
+            "ratOff": "56",
+            "ratTalent": "84",
+            "ratDiscipline": "46",
+            "ratPot": "51"
+          }
+        }
+      ]
+    },    
+    {
+      "confName": "MATL",
+      "confFullName": "Mid Atlantic",
+      "confPrestige": "70",
+      "confTeams": 
+      [        
+        {
+          "name": "Applachian Tech",
+          "abbreviation": "APT",
+          "prestige": "80",
+          "state": "Virginia",
+          "rival": "VRG",
+          "headCoach": 
+          {
+            "name": "Armando Mitkowski",
+            "age": "36",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Maryland",
+            "baselinePrestige": "80",
+            "cumulativePrestige": "0",
+            "ratOvr": "68",
+            "ratDef": "79",
+            "ratOff": "67",
+            "ratTalent": "76",
+            "ratDiscipline": "51",
+            "ratPot": "69"
+          }
+        },        
+        {
+          "name": "Chapel Hill",
+          "abbreviation": "CHP",
+          "prestige": "75",
+          "state": "North Carolina",
+          "rival": "DUR",
+          "headCoach": 
+          {
+            "name": "Dwight Finkler",
+            "age": "44",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Wyoming",
+            "baselinePrestige": "75",
+            "cumulativePrestige": "0",
+            "ratOvr": "81",
+            "ratDef": "76",
+            "ratOff": "67",
+            "ratTalent": "90",
+            "ratDiscipline": "94",
+            "ratPot": "60"
+          }
+        },        
+        {
+          "name": "Virginia",
+          "abbreviation": "VRG",
+          "prestige": "70",
+          "state": "Virginia",
+          "rival": "APT",
+          "headCoach": 
+          {
+            "name": "Omar Lorentzen",
+            "age": "31",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Connecticut",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "0",
+            "ratOvr": "73",
+            "ratDef": "65",
+            "ratOff": "75",
+            "ratTalent": "94",
+            "ratDiscipline": "58",
+            "ratPot": "62"
+          }
+        },        
+        {
+          "name": "Durham",
+          "abbreviation": "DUR",
+          "prestige": "70",
+          "state": "North Carolina",
+          "rival": "CHP",
+          "headCoach": 
+          {
+            "name": "Jasper Davito",
+            "age": "44",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Wisconsin",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "0",
+            "ratOvr": "73",
+            "ratDef": "68",
+            "ratOff": "74",
+            "ratTalent": "66",
+            "ratDiscipline": "87",
+            "ratPot": "57"
+          }
+        },        
+        {
+          "name": "Raleigh",
+          "abbreviation": "RAL",
+          "prestige": "70",
+          "state": "North Carolina",
+          "rival": "DEL",
+          "headCoach": 
+          {
+            "name": "Braden Rehbein",
+            "age": "43",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Alabama",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "0",
+            "ratOvr": "70",
+            "ratDef": "71",
+            "ratOff": "62",
+            "ratTalent": "79",
+            "ratDiscipline": "70",
+            "ratPot": "70"
+          }
+        },        
+        {
+          "name": "Morgantown",
+          "abbreviation": "MTW",
+          "prestige": "70",
+          "state": "West Virginia",
+          "rival": "PRO",
+          "headCoach": 
+          {
+            "name": "Davis Kostelecky",
+            "age": "52",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Montana",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "0",
+            "ratOvr": "58",
+            "ratDef": "67",
+            "ratOff": "63",
+            "ratTalent": "56",
+            "ratDiscipline": "49",
+            "ratPot": "88"
+          }
+        },        
+        {
+          "name": "Delaware",
+          "abbreviation": "DEL",
+          "prestige": "65",
+          "state": "Delaware",
+          "rival": "RAL",
+          "headCoach": 
+          {
+            "name": "Shawn Lovaas",
+            "age": "30",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Iowa",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "0",
+            "ratOvr": "65",
+            "ratDef": "53",
+            "ratOff": "51",
+            "ratTalent": "67",
+            "ratDiscipline": "92",
+            "ratPot": "54"
+          }
+        },        
+        {
+          "name": "Rand",
+          "abbreviation": "RND",
+          "prestige": "55",
+          "state": "West Virginia",
+          "rival": "MTW",
+          "headCoach": 
+          {
+            "name": "Jermaine Brak",
+            "age": "52",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "South Carolina",
+            "baselinePrestige": "55",
+            "cumulativePrestige": "0",
+            "ratOvr": "71",
+            "ratDef": "63",
+            "ratOff": "79",
+            "ratTalent": "68",
+            "ratDiscipline": "77",
+            "ratPot": "93"
+          }
+        },        
+        {
+          "name": "New Jersey St",
+          "abbreviation": "NJS",
+          "prestige": "50",
+          "state": "New Jersey",
+          "rival": "HRS",
+          "headCoach": 
+          {
+            "name": "Titus Cron",
+            "age": "38",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Michigan",
+            "baselinePrestige": "50",
+            "cumulativePrestige": "0",
+            "ratOvr": "63",
+            "ratDef": "67",
+            "ratOff": "66",
+            "ratTalent": "54",
+            "ratDiscipline": "68",
+            "ratPot": "96"
+          }
+        },        
+        {
+          "name": "Harrisburg",
+          "abbreviation": "HRS",
+          "prestige": "50",
+          "state": "Pennsylvania",
+          "rival": "NJS",
+          "headCoach": 
+          {
+            "name": "Dorian Kindall",
+            "age": "50",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Alabama",
+            "baselinePrestige": "50",
+            "cumulativePrestige": "0",
+            "ratOvr": "70",
+            "ratDef": "55",
+            "ratOff": "60",
+            "ratTalent": "77",
+            "ratDiscipline": "91",
+            "ratPot": "84"
+          }
+        }
+      ]
+    },    
+    {
+      "confName": "PLNS",
+      "confFullName": "Plains",
+      "confPrestige": "65",
+      "confTeams": 
+      [        
+        {
+          "name": "Canton",
+          "abbreviation": "CTN",
+          "prestige": "75",
+          "state": "Ohio",
+          "rival": "TOL",
+          "headCoach": 
+          {
+            "name": "Guy Scroggin",
+            "age": "36",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Louisiana",
+            "baselinePrestige": "75",
+            "cumulativePrestige": "0",
+            "ratOvr": "75",
+            "ratDef": "79",
+            "ratOff": "75",
+            "ratTalent": "81",
+            "ratDiscipline": "65",
+            "ratPot": "97"
+          }
+        },        
+        {
+          "name": "Cincinnati",
+          "abbreviation": "CIN",
+          "prestige": "75",
+          "state": "Ohio",
+          "rival": "SPR",
+          "headCoach": 
+          {
+            "name": "DJ Oare",
+            "age": "57",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Texas",
+            "baselinePrestige": "75",
+            "cumulativePrestige": "0",
+            "ratOvr": "70",
+            "ratDef": "76",
+            "ratOff": "67",
+            "ratTalent": "79",
+            "ratDiscipline": "58",
+            "ratPot": "70"
+          }
+        },        
+        {
+          "name": "New York Upstate",
+          "abbreviation": "NYP",
+          "prestige": "65",
+          "state": "New York",
+          "rival": "CTN",
+          "headCoach": 
+          {
+            "name": "Vaughn Sherwood",
+            "age": "41",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "California",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "0",
+            "ratOvr": "60",
+            "ratDef": "62",
+            "ratOff": "61",
+            "ratTalent": "49",
+            "ratDiscipline": "69",
+            "ratPot": "89"
+          }
+        },        
+        {
+          "name": "Indianapolis",
+          "abbreviation": "IPS",
+          "prestige": "65",
+          "state": "Indiana",
+          "rival": "ILC",
+          "headCoach": 
+          {
+            "name": "Brendan Musshorn",
+            "age": "49",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Minnesota",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "0",
+            "ratOvr": "74",
+            "ratDef": "72",
+            "ratOff": "76",
+            "ratTalent": "59",
+            "ratDiscipline": "91",
+            "ratPot": "53"
+          }
+        },        
+        {
+          "name": "Illinois Central",
+          "abbreviation": "ILC",
+          "prestige": "65",
+          "state": "Illinois",
+          "rival": "IPS",
+          "headCoach": 
+          {
+            "name": "Larry Weigle",
+            "age": "57",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Maine",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "0",
+            "ratOvr": "64",
+            "ratDef": "63",
+            "ratOff": "61",
+            "ratTalent": "50",
+            "ratDiscipline": "84",
+            "ratPot": "94"
+          }
+        },        
+        {
+          "name": "Springfield",
+          "abbreviation": "SPR",
+          "prestige": "65",
+          "state": "Ohio",
+          "rival": "CIN",
+          "headCoach": 
+          {
+            "name": "Zachary Burchfield",
+            "age": "44",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Michigan",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "0",
+            "ratOvr": "71",
+            "ratDef": "57",
+            "ratOff": "73",
+            "ratTalent": "77",
+            "ratDiscipline": "79",
+            "ratPot": "97"
+          }
+        },        
+        {
+          "name": "Toledo",
+          "abbreviation": "TOL",
+          "prestige": "60",
+          "state": "Ohio",
+          "rival": "CTN",
+          "headCoach": 
+          {
+            "name": "Conor Golden",
+            "age": "53",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Massachusetts",
+            "baselinePrestige": "60",
+            "cumulativePrestige": "0",
+            "ratOvr": "62",
+            "ratDef": "67",
+            "ratOff": "62",
+            "ratTalent": "63",
+            "ratDiscipline": "59",
+            "ratPot": "82"
+          }
+        },        
+        {
+          "name": "Oxford",
+          "abbreviation": "OXF",
+          "prestige": "60",
+          "state": "Ohio",
+          "rival": "SOH",
+          "headCoach": 
+          {
+            "name": "Grant Constant",
+            "age": "56",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Kansas",
+            "baselinePrestige": "60",
+            "cumulativePrestige": "0",
+            "ratOvr": "74",
+            "ratDef": "59",
+            "ratOff": "76",
+            "ratTalent": "74",
+            "ratDiscipline": "88",
+            "ratPot": "86"
+          }
+        },        
+        {
+          "name": "Michigan Pnla",
+          "abbreviation": "MPU",
+          "prestige": "55",
+          "state": "Michigan",
+          "rival": "NYP",
+          "headCoach": 
+          {
+            "name": "Charles Leigh",
+            "age": "35",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Georgia",
+            "baselinePrestige": "55",
+            "cumulativePrestige": "0",
+            "ratOvr": "70",
+            "ratDef": "68",
+            "ratOff": "53",
+            "ratTalent": "76",
+            "ratDiscipline": "83",
+            "ratPot": "96"
+          }
+        },        
+        {
+          "name": "Southern Ohio",
+          "abbreviation": "SOH",
+          "prestige": "55",
+          "state": "Ohio",
+          "rival": "OXF",
+          "headCoach": 
+          {
+            "name": "Jeremy Venier",
+            "age": "43",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "North Carolina",
+            "baselinePrestige": "55",
+            "cumulativePrestige": "0",
+            "ratOvr": "70",
+            "ratDef": "55",
+            "ratOff": "64",
+            "ratTalent": "81",
+            "ratDiscipline": "82",
+            "ratPot": "84"
+          }
+        }
+      ]
+    },    
+    {
+      "confName": "EAST",
+      "confFullName": "Eastern",
+      "confPrestige": "70",
+      "confTeams": 
+      [        
+        {
+          "name": "Orlando",
+          "abbreviation": "MCO",
+          "prestige": "70",
+          "state": "Florida",
+          "rival": "HTF",
+          "headCoach": 
+          {
+            "name": "Hootie Santiesteban",
+            "age": "48",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Montana",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "0",
+            "ratOvr": "66",
+            "ratDef": "65",
+            "ratOff": "70",
+            "ratTalent": "54",
+            "ratDiscipline": "78",
+            "ratPot": "63"
+          }
+        },        
+        {
+          "name": "Louisville",
+          "abbreviation": "LVL",
+          "prestige": "70",
+          "state": "Kentucky",
+          "rival": "SWK",
+          "headCoach": 
+          {
+            "name": "Doug Kubacki",
+            "age": "34",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "West Virginia",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "0",
+            "ratOvr": "56",
+            "ratDef": "67",
+            "ratOff": "59",
+            "ratTalent": "56",
+            "ratDiscipline": "45",
+            "ratPot": "56"
+          }
+        },        
+        {
+          "name": "Hartford",
+          "abbreviation": "HTF",
+          "prestige": "65",
+          "state": "Connecticut",
+          "rival": "MCO",
+          "headCoach": 
+          {
+            "name": "Elliott Sedlack",
+            "age": "37",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Idaho",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "0",
+            "ratOvr": "56",
+            "ratDef": "64",
+            "ratOff": "59",
+            "ratTalent": "56",
+            "ratDiscipline": "48",
+            "ratPot": "98"
+          }
+        },        
+        {
+          "name": "Tampa St",
+          "abbreviation": "TMP",
+          "prestige": "65",
+          "state": "Florida",
+          "rival": "GRE",
+          "headCoach": 
+          {
+            "name": "Brad Rusteberg",
+            "age": "36",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Connecticut",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "0",
+            "ratOvr": "60",
+            "ratDef": "56",
+            "ratOff": "77",
+            "ratTalent": "53",
+            "ratDiscipline": "56",
+            "ratPot": "82"
+          }
+        },        
+        {
+          "name": "Oklahoma Sthrn",
+          "abbreviation": "OSN",
+          "prestige": "65",
+          "state": "Oklahoma",
+          "rival": "STA",
+          "headCoach": 
+          {
+            "name": "Lance Eclarinal",
+            "age": "33",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Oregon",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "0",
+            "ratOvr": "55",
+            "ratDef": "58",
+            "ratOff": "62",
+            "ratTalent": "51",
+            "ratDiscipline": "52",
+            "ratPot": "76"
+          }
+        },        
+        {
+          "name": "Manhattan",
+          "abbreviation": "MHT",
+          "prestige": "65",
+          "state": "Kansas",
+          "rival": "WCH",
+          "headCoach": 
+          {
+            "name": "Roy Hedden",
+            "age": "55",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Texas",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "0",
+            "ratOvr": "75",
+            "ratDef": "73",
+            "ratOff": "71",
+            "ratTalent": "81",
+            "ratDiscipline": "75",
+            "ratPot": "92"
+          }
+        },        
+        {
+          "name": "San Antonio St",
+          "abbreviation": "STA",
+          "prestige": "60",
+          "state": "Texas",
+          "rival": "OSN",
+          "headCoach": 
+          {
+            "name": "Lorenzo Kubisiak",
+            "age": "50",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Oklahoma",
+            "baselinePrestige": "60",
+            "cumulativePrestige": "0",
+            "ratOvr": "66",
+            "ratDef": "56",
+            "ratOff": "60",
+            "ratTalent": "87",
+            "ratDiscipline": "62",
+            "ratPot": "54"
+          }
+        },        
+        {
+          "name": "Greenville",
+          "abbreviation": "GRE",
+          "prestige": "55",
+          "state": "South Carolina",
+          "rival": "TMP",
+          "headCoach": 
+          {
+            "name": "Vinnie Difebbo",
+            "age": "32",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Alaska",
+            "baselinePrestige": "55",
+            "cumulativePrestige": "0",
+            "ratOvr": "63",
+            "ratDef": "54",
+            "ratOff": "55",
+            "ratTalent": "65",
+            "ratDiscipline": "80",
+            "ratPot": "56"
+          }
+        },        
+        {
+          "name": "Wichita",
+          "abbreviation": "WCH",
+          "prestige": "55",
+          "state": "Kansas",
+          "rival": "MHT",
+          "headCoach": 
+          {
+            "name": "Curtis Caliguire",
+            "age": "40",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Maine",
+            "baselinePrestige": "55",
+            "cumulativePrestige": "0",
+            "ratOvr": "64",
+            "ratDef": "70",
+            "ratOff": "69",
+            "ratTalent": "53",
+            "ratDiscipline": "64",
+            "ratPot": "62"
+          }
+        },        
+        {
+          "name": "SW Kentucky",
+          "abbreviation": "SWK",
+          "prestige": "50",
+          "state": "Kentucky",
+          "rival": "LVL",
+          "headCoach": 
+          {
+            "name": "Mario Torsiello",
+            "age": "48",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Wyoming",
+            "baselinePrestige": "50",
+            "cumulativePrestige": "0",
+            "ratOvr": "67",
+            "ratDef": "61",
+            "ratOff": "60",
+            "ratTalent": "81",
+            "ratDiscipline": "68",
+            "ratPot": "88"
+          }
+        }
+      ]
+    },    
+    {
+      "confName": "MRVR",
+      "confFullName": "Mississippi River",
+      "confPrestige": "60",
+      "confTeams": 
+      [        
+        {
+          "name": "Birmingham",
+          "abbreviation": "BIR",
+          "prestige": "70",
+          "state": "Alabama",
+          "rival": "DTS",
+          "headCoach": 
+          {
+            "name": "Matt Alexander",
+            "age": "35",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Iowa",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "0",
+            "ratOvr": "72",
+            "ratDef": "77",
+            "ratOff": "68",
+            "ratTalent": "50",
+            "ratDiscipline": "93",
+            "ratPot": "53"
+          }
+        },        
+        {
+          "name": "St Louis",
+          "abbreviation": "STL",
+          "prestige": "65",
+          "state": "Missouri",
+          "rival": "MFB",
+          "headCoach": 
+          {
+            "name": "Leonard Calica",
+            "age": "38",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Nevada",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "0",
+            "ratOvr": "66",
+            "ratDef": "57",
+            "ratOff": "53",
+            "ratTalent": "82",
+            "ratDiscipline": "72",
+            "ratPot": "80"
+          }
+        },        
+        {
+          "name": "Gulf St",
+          "abbreviation": "GFS",
+          "prestige": "65",
+          "state": "Mississippi",
+          "rival": "JCK",
+          "headCoach": 
+          {
+            "name": "Ali Beechum",
+            "age": "31",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Indiana",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "0",
+            "ratOvr": "75",
+            "ratDef": "56",
+            "ratOff": "73",
+            "ratTalent": "87",
+            "ratDiscipline": "85",
+            "ratPot": "79"
+          }
+        },        
+        {
+          "name": "Middle Arkansas",
+          "abbreviation": "MAK",
+          "prestige": "65",
+          "state": "Arkansas",
+          "rival": "KSI",
+          "headCoach": 
+          {
+            "name": "Austin Villifana",
+            "age": "30",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Nevada",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "0",
+            "ratOvr": "78",
+            "ratDef": "80",
+            "ratOff": "73",
+            "ratTalent": "68",
+            "ratDiscipline": "94",
+            "ratPot": "64"
+          }
+        },        
+        {
+          "name": "Jackson",
+          "abbreviation": "JCK",
+          "prestige": "60",
+          "state": "Mississippi",
+          "rival": "GFS",
+          "headCoach": 
+          {
+            "name": "Donovan Devenuto",
+            "age": "47",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Iowa",
+            "baselinePrestige": "60",
+            "cumulativePrestige": "0",
+            "ratOvr": "58",
+            "ratDef": "60",
+            "ratOff": "67",
+            "ratTalent": "47",
+            "ratDiscipline": "59",
+            "ratPot": "72"
+          }
+        },        
+        {
+          "name": "Murfeesboro",
+          "abbreviation": "MFB",
+          "prestige": "55",
+          "state": "Tennessee",
+          "rival": "STL",
+          "headCoach": 
+          {
+            "name": "Paul Goldfuss",
+            "age": "55",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "New Mexico",
+            "baselinePrestige": "55",
+            "cumulativePrestige": "0",
+            "ratOvr": "65",
+            "ratDef": "49",
+            "ratOff": "51",
+            "ratTalent": "82",
+            "ratDiscipline": "79",
+            "ratPot": "90"
+          }
+        },        
+        {
+          "name": "Destin St",
+          "abbreviation": "DTS",
+          "prestige": "55",
+          "state": "Florida",
+          "rival": "BIR",
+          "headCoach": 
+          {
+            "name": "Donte Puna",
+            "age": "42",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Utah",
+            "baselinePrestige": "55",
+            "cumulativePrestige": "0",
+            "ratOvr": "58",
+            "ratDef": "57",
+            "ratOff": "59",
+            "ratTalent": "62",
+            "ratDiscipline": "55",
+            "ratPot": "66"
+          }
+        },        
+        {
+          "name": "Ruston",
+          "abbreviation": "RST",
+          "prestige": "55",
+          "state": "Louisiana",
+          "rival": "CMS",
+          "headCoach": 
+          {
+            "name": "Bailey Northcott",
+            "age": "30",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Arizona",
+            "baselinePrestige": "55",
+            "cumulativePrestige": "0",
+            "ratOvr": "59",
+            "ratDef": "56",
+            "ratOff": "70",
+            "ratTalent": "58",
+            "ratDiscipline": "54",
+            "ratPot": "58"
+          }
+        },        
+        {
+          "name": "Coastal Miss",
+          "abbreviation": "CMS",
+          "prestige": "55",
+          "state": "Mississippi",
+          "rival": "RST",
+          "headCoach": 
+          {
+            "name": "Kurt Laza",
+            "age": "33",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Vermont",
+            "baselinePrestige": "55",
+            "cumulativePrestige": "0",
+            "ratOvr": "66",
+            "ratDef": "67",
+            "ratOff": "51",
+            "ratTalent": "58",
+            "ratDiscipline": "89",
+            "ratPot": "56"
+          }
+        },        
+        {
+          "name": "Kansas Intl",
+          "abbreviation": "KSI",
+          "prestige": "50",
+          "state": "Kansas",
+          "rival": "MAK",
+          "headCoach": 
+          {
+            "name": "Chase Dumpson",
+            "age": "35",
+            "startYear": "2022",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Nebraska",
+            "baselinePrestige": "50",
+            "cumulativePrestige": "0",
+            "ratOvr": "65",
+            "ratDef": "58",
+            "ratOff": "60",
+            "ratTalent": "59",
+            "ratDiscipline": "86",
+            "ratPot": "93"
+          }
+        }
+      ]
+    }
+  ]
+}
