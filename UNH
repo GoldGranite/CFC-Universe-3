@@ -45,7 +45,7 @@
       "confFullName": "Southern",
       "confPrestige": "90",
       "confTeams": 
-      [        
+      [       
         {
           "name": "Alabama",
           "abbreviation": "ALA",
@@ -691,7 +691,7 @@
           "abbreviation": "BOS",
           "prestige": "65",
           "state": "Massachusetts",
-          "rival": "PIT",
+          "rival": "VER",
           "headCoach": 
           {
             "name": "Desmon Trenholm",
@@ -715,7 +715,7 @@
           "abbreviation": "PIT",
           "prestige": "60",
           "state": "Pennsylvania",
-          "rival": "BOS",
+          "rival": "MAI",
           "headCoach": 
           {
             "name": "Howard Easterly",
@@ -739,7 +739,7 @@
           "abbreviation": "MAI",
           "prestige": "50",
           "state": "Maine",
-          "rival": "NH",
+          "rival": "PIT",
           "headCoach": 
           {
             "name": "Cruz Dume",
@@ -759,11 +759,11 @@
           }
         },        
         {
-          "name": "New Hampshire",
-          "abbreviation": "NH",
+          "name": "Vermont",
+          "abbreviation": "VER",
           "prestige": "45",
-          "state": "New Hampshire",
-          "rival": "MAI",
+          "state": "Vermont",
+          "rival": "BOS",
           "headCoach": 
           {
             "name": "Doug Macmanus",
